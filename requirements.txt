@@ -1,0 +1,13 @@
+# Calibre Search - Package Requirements
+#
+# This package uses only Python standard library modules.
+# No external dependencies are required.
+#
+# For development/testing, you may want to install:
+# - pytest (for alternative test runner)
+# - coverage (for test coverage reports)
+# - black (for code formatting)
+# - flake8 (for linting)
+#
+# Install development dependencies with:
+# pip install -e .[dev]
